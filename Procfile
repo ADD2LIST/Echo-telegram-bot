@@ -1,4 +1,5 @@
-web: gunicorn main:application 
+worker: python -m main
+
 
 
 

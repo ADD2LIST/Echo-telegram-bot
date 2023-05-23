@@ -72,7 +72,7 @@ def main() -> None:
 
     # Create the Application and pass it your bot's token.
 
-    application = Application.builder().token("TOKEN").build()
+    application = Application.builder().token("6159127815:AAEFpbioj4u_YJROvddzFGIsB8EIUOlonu4").build()
 
     # on different commands - answer in Telegram
 
